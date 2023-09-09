@@ -766,6 +766,11 @@ main {
 
 .article-title { margin-bottom: 30px; }
 
+.selector {
+  color: aliceblue;
+  margin-bottom: 2rem;
+}
+
 
 /**
  * education and experience 
