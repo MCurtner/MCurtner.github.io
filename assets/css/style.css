@@ -157,6 +157,7 @@ html { font-family: var(--ff-poppins); }
 
 /* body { background: var(--smoky-black); } */
 body { 
+
   background: var(--smoky-black);
   background-image: url(https://i.imgur.com/tIm2o5z.png);
   background-attachment: fixed;
